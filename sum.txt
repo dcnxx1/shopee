@@ -1,0 +1,23 @@
+https://res.cloudinary.com/dhuhnw04y/image/upload/v1645211977/shopee_assets/Women/Skirts/3199970_bnuppp.jpg
+https://res.cloudinary.com/dhuhnw04y/image/upload/v1645211977/shopee_assets/Women/Skirts/Burberry/3199970_bnuppp.jpg
+
+Object { id: 4, type: "jacket", brand: "Gucci", model: "GG Kaleidoscope Jacket Oranje", sex: "male", price: "1.695", size: (3) […], image_url: (5) […] }
+​
+brand: "Gucci"
+​
+id: 4
+​
+image_url: Array(5) [ "https://res.cloudinary.com/dhuhnw04y/image/upload/v164520507…shopee_assets/Men/Jackets/Gucci/guc0147049_ora_00_q6jurq.jpg", "https://res.cloudinary.com/dhuhnw04y/image/upload/v164520513…shopee_assets/Men/Jackets/Gucci/guc0147049_ora_02_n2oczd.jpg", "https://res.cloudinary.com/dhuhnw04y/image/upload/v164520516…shopee_assets/Men/Jackets/Gucci/guc0147049_ora_03_rz3j2a.jpg", … ]
+​
+model: "GG Kaleidoscope Jacket Oranje"
+​
+price: "1.695"
+​
+sex: "male"
+​
+size: Array(3) [ "XS", "S", "M" ]
+​
+type: "jacket"
+​
+<prototype>: Object { … }
+Item.js:40
